@@ -10,6 +10,6 @@ Included proper page title, organization of semantic HTML elements with comments
 Link to website:  https://thuytttn.github.io/horiseon/
 
 ## Screenshot
-![Screenshot](./Develop/assets/images/horiseon-screenshot.png)
+![Screenshot](./assets/images/horiseon-screenshot.png)
 
 
