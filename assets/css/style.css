@@ -64,6 +64,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+
 .content-box p {
     font-size: 16px;
 }
@@ -78,7 +80,7 @@ p {
     margin-left: 25px;
 }
 
-/* search engine optimization */
+/* combined search engine optimization, online reputation, and social media marketing articles */
 .content-box {
     margin-bottom: 20px;
     padding: 50px;
@@ -87,6 +89,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 .content-box img {
     max-height: 200px;
 }
@@ -108,7 +111,8 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-box {
+/* added benefit-box to combine articles */
+.benefit-box {              
     margin-bottom: 32px;
     color: #ffffff;
 }
